@@ -1,0 +1,11 @@
+https://mvsp.dev/ - A minimum security baseline for enterprise-ready products and services
+https://securityheaders.com/ - Free and easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
+https://www.ssllabs.com/ssltest/ - Free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
+https://gchq.github.io/CyberChef/ - A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
+https://slsa.dev/ - Security framework, a checklist of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure.
+https://dmarcian.com/ - Email security checks (DMARC, SPF and DKIM).
+https://ssl-config.mozilla.org/ - An easy-to-use secure configuration generator for web, database, and mail software.
+https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+https://csp-evaluator.withgoogle.com/ - CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
+https://github.com/danielmiessler/SecLists - Collection of multiple types of lists used during security assessments, collected in one place.
+https://choosealicense.com/ - Comprehensive directory of open source licenses.
